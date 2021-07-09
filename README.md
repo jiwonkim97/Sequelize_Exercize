@@ -1,2 +1,2 @@
 # Sequelize_Exercize
-# sequelize 연습해보기
+sequelize 연습해보기
